@@ -2,7 +2,6 @@
 
 Many of my data managment projects and data visualizations be be found on [my Data Analyst portfolio here.](https://github.com/LucinoGarcia/Data-Analyst-Portfolio) <br>
 My machine learning and data science projects can be found on [my Data Analyst portfolio here.](https://github.com/LucinoGarcia/Portfolio) <br><br>
-
 Feel free to reach out to [my Linked-In](https://www.linkedin.com/in/lucino-garcia/)
 
 
